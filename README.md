@@ -1,4 +1,5 @@
 Clang [![Ansible Role](https://img.shields.io/ansible/role/d/21596.svg)](https://galaxy.ansible.com/loderunner/clang/) [![Build Status](https://travis-ci.org/loderunner/ansible-clang.svg?branch=master)](https://travis-ci.org/loderunner/ansible-clang)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Floderunner%2Fansible-clang.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Floderunner%2Fansible-clang?ref=badge_shield)
 =====
 
 Ansible role that installs [Clang](https://clang.llvm.org/) to Ubuntu or Debian.
@@ -27,3 +28,7 @@ Author Information
 ------------------
 
 You can find me on [Twitter](https://twitter.com/loderunnr), [GitLab](https://gitlab.com/loderunner) and on [GitHub](https://github.com/loderunner/). I work on [Pantomath](https://pantomath.io) and sometimes write on [ThePracticalDev](https://dev.to/loderunner).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Floderunner%2Fansible-clang.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Floderunner%2Fansible-clang?ref=badge_large)
